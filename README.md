@@ -8,6 +8,7 @@ Everything runs in Google Colab. Nothing needs to be installed on your own compu
 | # | Topic | Open |
 |---|-------|------|
 | 01 | The state and motion of water: enthalpy, boiling, pressure with depth, Darcy flow | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/two-phaseflow/JED116F/blob/main/notebooks/01_state_and_motion_of_water.ipynb) |
+| 02 | Well tests: injectivity index, the pressure diffusion equation in code, transmissivity and kh from pressure records (K-37, K-38, NJ-15, Ohaaki) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/two-phaseflow/JED116F/blob/main/notebooks/02_well_tests_pressure_transients.ipynb) |
 
 ## How to work with these notebooks
 

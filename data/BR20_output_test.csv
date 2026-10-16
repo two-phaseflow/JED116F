@@ -1,0 +1,17 @@
+# Output test of well BR20, Ohaaki, New Zealand. Grant and Bixley (2011) Table 8.3, source Contact Energy. Year of test not given in the book; dates listed as day and month only (10 to 20 September).
+# Highly productive liquid-fed well, 8 5/8 inch casing. Maximum discharging wellhead pressure (MDP) 38.6 bar-g.
+# Lip pressure method: total mass flow from the James (1962) formula, water flow from the separator weir. Last row used a 150 mm lip instead of 203 mm.
+# Columns: date (day and month as in the book, year unknown), WHP_barg, lip_diameter_mm, lip_pressure_barg, water_flow_t_per_h
+date,WHP_barg,lip_diameter_mm,lip_pressure_barg,water_flow_t_per_h
+09-10,10.5,203,3.81,233
+09-11,12.4,203,3.71,227
+09-12,14.5,203,3.57,216
+09-13,16.9,203,3.34,207
+09-14,19.7,203,3.1,198
+09-15,21.7,203,2.95,188
+09-16,24.5,203,2.74,180
+09-17,28.3,203,2.4,161
+09-18,32.1,203,1.81,142
+09-19,33.4,203,1.41,124
+09-20,36.6,203,0.68,89
+09-20b,37.9,150,0.79,53
