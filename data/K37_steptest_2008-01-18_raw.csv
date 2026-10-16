@@ -1,7 +1,7 @@
 # Well KJ-37, Krafla. Step-rate injection test 18.01.2008, Kuster K10 gauge at 1420 m (main feed zone), one reading every 5 s.
 # Steps: injection raised 20 to 35 L/s at 14:17 (step 1), 35 to 50 L/s at 17:18 (step 2), lowered 50 to 20 L/s at 20:18 (step 3). t_s is seconds since 14:17:00. rate_L_s is the pump rate after the change that starts each step.
 # Pressure before the test at 20 L/s: 80.0 bar-g. Temperature at the gauge is the injected water, 28 to 47 C.
-# Source: ISOR measurement database export for well KJ-37 (hole 58037), Krafla, supplied by Sam Scott 15.10.2026. Depths in m along the hole, pressures in bar gauge, temperatures in C. Use for teaching only.
+# Source: ISOR measurement database export for well KJ-37 (hole 58037), Krafla, https://uos.is/boreholes/58037, supplied by Sam Scott 15.10.2026. Depths in m along the hole, pressures in bar gauge, temperatures in C. Use for teaching only.
 time,t_s,step,rate_L_s,p_barg,T_C
 2008-01-18 14:17:06,6.00,1,35,80.04,45.94
 2008-01-18 14:17:11,11.00,1,35,80.03,45.94
