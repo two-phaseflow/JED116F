@@ -9,6 +9,8 @@ Everything runs in Google Colab. Nothing needs to be installed on your own compu
 |---|-------|------|
 | 01 | The state and motion of water: enthalpy, boiling, pressure with depth, Darcy flow | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/two-phaseflow/JED116F/blob/main/notebooks/01_state_and_motion_of_water.ipynb) |
 | 02 | Well tests: injectivity index, the pressure diffusion equation in code, transmissivity and kh from pressure records (K-37, K-38, NJ-15, Ohaaki) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/two-phaseflow/JED116F/blob/main/notebooks/02_well_tests_pressure_transients.ipynb) |
+| 03 | Stored heat and Monte Carlo, heat extraction from fractured rock: the Gringarten model in code, recovery factor, a Cape-type EGS doublet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/two-phaseflow/JED116F/blob/main/notebooks/03_stored_heat_and_fractured_rock_v2.ipynb) |
+| 04 | Lumped models and inverse modelling: tank models in code, misfit and least squares, forecasts (Hoffell, Ahuachapán) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/two-phaseflow/JED116F/blob/main/notebooks/04_lumped_models_inverse.ipynb) |
 
 ## How to work with these notebooks
 
@@ -29,7 +31,7 @@ jupyter lab
 
 ## Rules on using AI tools
 
-You may use AI tools for error messages, coding approaches, plotting and test cases. You must be able to explain every line you hand in, and you may be asked to do so. Each notebook asks you to write a prediction before you run a calculation. Write it.
+You may use AI tools for error messages, coding approaches, plotting and test cases. You must be able to explain every line you hand in, and you may be asked to do so. Think about what a result should look like before you run a calculation, and say so in your report when the result surprised you.
 
 ## Structure
 
